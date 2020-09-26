@@ -47,7 +47,8 @@
     "react/jsx-props-no-spreading": "off",
     "react/destructuring-assignment": "off",
     "react/react-in-jsx-scope": "off",
-    "jsx-a11y/anchor-is-valid": "off"
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/jsx-one-expression-per-line": "off"
   },
   "settings": {
     "import/resolver": {
